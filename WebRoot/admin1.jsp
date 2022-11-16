@@ -1,5 +1,5 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html xmlns="http://www.w3.org/1999/xhtml........">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>Education</title>
@@ -244,7 +244,7 @@ function dil(form)
                     <li><a href="contactus.jsp">Contact Us</a></li>
            </ul>
                 
-                Copyright © 2048 <a href="#">Your Company Name</a> | 
+                Copyright Â© 2048 <a href="#">Your Company Name</a> | 
                 <a href="http://www.javatpoint.com" target="_parent">Website Projects</a> by <a href="http://www.javatpoint.com" target="_parent">javatpoint.com</a></div>
     
 </div>
